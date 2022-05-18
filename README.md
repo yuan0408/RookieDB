@@ -17,3 +17,8 @@ https://github.com/yuan0408/CS186-proj1
 
 ## project2
 https://github.com/yuan0408/RookieDB/blob/master/note/project2.md
+
+## project3
+
+### part1
+https://github.com/yuan0408/RookieDB/blob/master/note/project3_part1.md
